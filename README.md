@@ -10,6 +10,12 @@ A Python-based to-do list application that allows users to add, view, complete, 
 - **Notifications:** Alerts users about tasks due today.
 - **Command Line Interface (CLI):** Simple and interactive.
 
+  # Output
+  
+  ![screenshot](https://github.com/user-attachments/assets/c3d0ed7f-1960-45d0-bca4-b596a2e21113)
+![screenshot](https://github.com/user-attachments/assets/c3d0ed7f-1960-45d0-bca4-b596a2e21113)
+
+
 ## Installation
 1. Clone the repository:
     ```sh
